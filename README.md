@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Francesco Bozzotta (aka Fr4) @silicia-apps 
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning typescript, angular, ionic, stenciljs, capacitor, node, nestjs, appwrite
+- 🌱 I’m currently learning typescript, angular, ionic, stenciljs, capacitor, node, nestjs, appwrite, langchain, gemini, chromadb
 - 💞️ I’m looking to collaborate on fun project
 - 📫 francesco.bozzotta(at)gmail.com
 
